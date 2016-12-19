@@ -1,0 +1,55 @@
+using System;
+
+using Xamarin.Auth;
+using Xamarin.Forms.Platform.iOS;
+
+namespace Whitter.iOS.Page
+{
+    public class LoginPageRenderer : PageRenderer
+    {
+        bool showLogin = true;
+        public override void ViewDidAppear(bool animated)
+        {
+            base.ViewDidAppear(animated);
+
+            if (showLogin && App.User == null)
+            {
+                showLogin = false;
+               
+                var auth = new OAuth1Authenticator(
+                    consumerKey: "IPDotz1tp4c07AZywLUbUOBza",
+                    consumerSecret: "FiGWZSvk1TIlK7XMYTpmacToPBNp8F32j4cT2RYsXRwaMe5q9S",
+                    requestTokenUrl: new Uri("https://api.twitter.com/oauth/request_token"),
+                    authorizeUrl: new Uri("https://api.twitter.com/oauth/authorize"),
+                    accessTokenUrl: new Uri("https://api.twitter.com/oauth/access_token"),
+                    callbackUrl: new Uri("https://www.facebook.com/connect/login_success.html")
+                );
+
+                auth.Completed += (sender, eventArgs) =>
+                {
+                    DismissViewController(true, null);
+
+                    if (eventArgs.IsAuthenticated)
+                    {
+                        App.User = new Model.UserDetails();
+                        
+                        App.User.Token = eventArgs.Account.Properties["oauth_token"];
+                        App.User.TokenSecret = eventArgs.Account.Properties["oauth_token_secret"];
+                        App.User.TwitterId = eventArgs.Account.Properties["user_id"];
+                        App.User.ScreenName = eventArgs.Account.Properties["screen_name"];
+
+                        AccountStore.Create().Save(eventArgs.Account, "Twitter");
+
+                        App.SuccessfulLoginAction.Invoke();
+                    }
+                    else
+                    {
+                        
+                    }
+                };
+
+                PresentViewController(auth.GetUI(), true, null);
+            }
+        }
+    }
+}

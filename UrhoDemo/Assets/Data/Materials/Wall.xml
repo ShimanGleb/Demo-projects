@@ -1,0 +1,6 @@
+<material>
+	<technique name="Techniques/DiffSpec.xml"/>
+	<texture name="Textures/Wall.png" unit="diffuse" />
+	<parameter name="MatDiffColor" value="0.143089 0.143089 0.143089 0.8"/>
+	<parameter name="MatSpecColor" value="0.5 0.5 0.5 50"/>
+</material>

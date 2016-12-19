@@ -1,0 +1,17 @@
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/optimized/
+/Users/gleb/Projects/BallBreaker/BallBreaker/bin/iPhoneSimulator/Debug/BallBreaker.exe.mdb
+/Users/gleb/Projects/BallBreaker/BallBreaker/bin/iPhoneSimulator/Debug/BallBreaker.exe
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/BallBreaker.exe
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/BallBreaker.exe.mdb
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/optimized/Images/Round.png
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/optimized/Round.png
+/Users/gleb/Projects/BallBreaker/BallBreaker/obj/iPhoneSimulator/Debug/optimized/Rectangle.png

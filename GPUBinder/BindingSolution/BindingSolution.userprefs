@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="BindingSolution/BindingSolution.csproj">
+  <MonoDevelop.Ide.ItemProperties.BindingSolution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingSolution/ApiDefinition.cs">
+    <Files>
+      <File FileName="BindingSolution/ApiDefinition.cs" Line="18" Column="28" />
+      <File FileName="BindingSolution/Structs.cs" Line="49" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

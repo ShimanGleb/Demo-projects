@@ -1,0 +1,5 @@
+/Users/gleb/Projects/BindingSolution/BindingSolution/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/gleb/Projects/BindingSolution/BindingSolution/bin/Debug/BindingSolution.dll.mdb
+/Users/gleb/Projects/BindingSolution/BindingSolution/bin/Debug/BindingSolution.dll
+/Users/gleb/Projects/BindingSolution/BindingSolution/obj/Debug/BindingSolution.dll
+/Users/gleb/Projects/BindingSolution/BindingSolution/obj/Debug/BindingSolution.dll.mdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Orders/Orders.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Orders/Model/CustomElement.cs">
+    <Files>
+      <File FileName="Orders/Controllers/OrderPositionListViewController.cs" Line="43" Column="5" />
+      <File FileName="Orders/Model/CustomElement.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Orders PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA36CD96-53F6-412C-BB02-CC1BA798628A" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="BallBreaker/BallBreaker.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BallBreaker/CustomViewController.cs">
+    <Files>
+      <File FileName="BallBreaker/AppDelegate.cs" Line="32" Column="4" />
+      <File FileName="BallBreaker/CustomViewController.cs" Line="65" Column="18" />
+      <File FileName="BallBreaker/BallView.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BallBreaker PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA36CD96-53F6-412C-BB02-CC1BA798628A" />
+</Properties>
